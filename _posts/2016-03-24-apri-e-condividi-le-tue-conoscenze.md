@@ -3,7 +3,7 @@ layout: post
 title: Albo POP a Barletta, "apri e condividi le tue conoscenze"
 ---
 
-_di **[Rinex83](https://github.com/Rinux83)**_
+_di **[Rinux83](https://github.com/Rinux83)**_
 
 > articolo pubblicato in origine su [http://0penyourm1nd.blogspot.it](http://0penyourm1nd.blogspot.it/2016/03/liberiamo-lalbo-pretorio-del-comune-di.html)
 
